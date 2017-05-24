@@ -1,5 +1,5 @@
 {
-    "name": "jester/q3tool",
+    "name": "stormyy/q3tool",
     "version":  "0.2.1",
     "type": "library",
     "description": "Quake 3 Server interaction for PHP",
