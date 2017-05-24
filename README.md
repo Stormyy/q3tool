@@ -2,6 +2,7 @@ Q3Tool
 ======
 
 PHP class for working with ioquake3-based game servers.
+Fork from  c9jester/q3tool with fixes from avail/q3tool
 
 
 Overview
